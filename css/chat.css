@@ -135,3 +135,12 @@ img {
   margin-left: 1rem;
   margin-right: auto;
 }
+
+.date {
+  margin-left: auto;
+}
+
+.click {
+  text-decoration: none;
+  color: black;
+}
