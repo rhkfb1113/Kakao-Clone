@@ -113,6 +113,24 @@ img {
   margin-left: 2.5rem;
 }
 
+.answer h5 {
+  position: relative;
+  top: -4%;
+  left: 101%;
+  margin: 0 auto;
+  font-size: 11px;
+  color: #666666;
+}
+
+.ask h5 {
+  position: relative;
+  top: -4%;
+  left: -33%;
+  margin: 0 auto;
+  font-size: 11px;
+  color: #666666;
+}
+
 footer {
   grid-area: footer;
   background: #fff;
